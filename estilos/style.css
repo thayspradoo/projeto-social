@@ -23,11 +23,6 @@ main {
     height: 100vh;
 }
 
-section#redesocial {
-    position: absolute;
-    top: 27%;
-    left: 39%;
-}
 
 section#tel {
     position: absolute;
@@ -48,6 +43,11 @@ iframe#tela {
     height: 471px;
 }
 
+section#redesocial {
+    position: absolute;
+    top: 27%;
+    left: 39%;
+}
 
 section#redesocial img {
     width: 50px;
